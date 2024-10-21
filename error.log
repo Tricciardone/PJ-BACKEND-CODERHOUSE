@@ -1,0 +1,56 @@
+2024-08-29T01:15:56.295Z [[31merror[39m]: Error al crear el carrito: carts validation failed: user: Path `user` is required.
+2024-08-29T01:15:56.296Z [[31merror[39m]: Error al agregar producto al carrito: Error al crear el carrito
+2024-08-29T01:23:38.040Z [[31merror[39m]: Error al crear el carrito: carts validation failed: user: Path `user` is required.
+2024-08-29T01:23:38.040Z [[31merror[39m]: Error al agregar producto al carrito: Error al crear el carrito
+2024-08-29T01:28:00.806Z [[31merror[39m]: Error al crear el carrito: carts validation failed: user: Path `user` is required.
+2024-08-29T01:28:00.807Z [[31merror[39m]: Error al agregar producto al carrito: Error al crear el carrito
+2024-08-29T01:29:27.964Z [[31merror[39m]: Error al crear el carrito: carts validation failed: user: Path `user` is required.
+2024-08-29T01:29:27.964Z [[31merror[39m]: Error al agregar producto al carrito: Error al crear el carrito
+2024-08-29T01:29:57.647Z [[31merror[39m]: Error al crear el carrito: carts validation failed: user: Path `user` is required.
+2024-08-29T01:29:57.648Z [[31merror[39m]: Error al agregar producto al carrito: Error al crear el carrito
+2024-08-29T01:34:00.993Z [[31merror[39m]: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96: Cannot populate path `products.productId` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-08-29T01:34:00.994Z [[31merror[39m]: Error al agregar producto al carrito: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96
+2024-08-29T01:35:04.110Z [[31merror[39m]: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96: Cannot populate path `products.productId` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-08-29T01:35:04.111Z [[31merror[39m]: Error al agregar producto al carrito: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96
+2024-08-29T01:35:28.440Z [[31merror[39m]: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96: Cannot populate path `products.productId` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-08-29T01:35:28.441Z [[31merror[39m]: Error al agregar producto al carrito: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96
+2024-08-29T01:35:38.265Z [[31merror[39m]: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96: Cannot populate path `products.productId` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-08-29T01:35:38.266Z [[31merror[39m]: Error al agregar producto al carrito: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96
+2024-08-29T01:38:46.242Z [[31merror[39m]: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96: Cannot populate path `products.productId` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-08-29T01:38:46.243Z [[31merror[39m]: Error al agregar producto al carrito: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96
+2024-08-29T01:39:34.876Z [[31merror[39m]: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96: Cannot populate path `product.productId` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-08-29T01:39:34.876Z [[31merror[39m]: Error al agregar producto al carrito: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96
+2024-08-29T01:39:56.470Z [[31merror[39m]: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96: Cannot populate path `products.productId` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-08-29T01:39:56.471Z [[31merror[39m]: Error al agregar producto al carrito: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96
+2024-08-29T01:40:12.488Z [[31merror[39m]: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96: Cannot populate path `products.productId` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-08-29T01:40:12.489Z [[31merror[39m]: Error al agregar producto al carrito: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96
+2024-08-29T01:44:23.215Z [[31merror[39m]: Error al agregar producto al carrito: carts validation failed: products.0.product: Path `product` is required.
+2024-08-29T01:48:38.305Z [[31merror[39m]: Error al agregar producto al carrito: Cannot read properties of undefined (reading 'equals')
+2024-08-29T01:48:49.590Z [[31merror[39m]: Error al agregar producto al carrito: Cannot read properties of undefined (reading 'equals')
+2024-08-29T01:54:45.908Z [[31merror[39m]: Error al agregar producto al carrito: Cannot read properties of undefined (reading 'equals')
+2024-08-29T02:16:08.963Z [[31merror[39m]: Error al agregar producto al carrito: Cannot read properties of undefined (reading 'equals')
+2024-08-29T02:16:12.133Z [[31merror[39m]: Error al agregar producto al carrito: Cannot read properties of undefined (reading 'equals')
+2024-08-29T02:26:01.934Z [[31merror[39m]: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96: Cannot populate path `products.product` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-08-29T02:26:01.935Z [[31merror[39m]: Error al agregar producto al carrito: Error al obtener el carrito para el usuario 66cfc277605c0264c50c9f96
+2024-08-29T02:26:37.839Z [[31merror[39m]: Error al agregar producto al carrito: Cannot read properties of undefined (reading 'equals')
+2024-08-29T02:27:51.996Z [[31merror[39m]: Error al agregar producto al carrito: Cannot read properties of undefined (reading 'equals')
+2024-08-29T02:32:39.015Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-08-29T02:32:53.925Z [[31merror[39m]: Error al agregar producto al carrito: Cannot read properties of undefined (reading 'equals')
+2024-08-29T02:45:03.467Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-08-29T02:45:10.723Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-08-29T02:45:42.243Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-08-29T02:49:13.307Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-09-20T18:24:38.841Z [[31merror[39m]: Error al agregar producto al carrito: carts validation failed: products.4.productId: Cast to ObjectId failed for value "" (type string) at path "productId" because of "BSONError"
+2024-09-22T17:09:56.998Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-09-22T17:10:00.783Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-09-22T17:10:07.210Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-09-22T17:19:12.881Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-09-22T17:19:13.395Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-09-22T17:19:16.376Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-09-22T17:19:40.373Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-09-22T17:20:17.039Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-09-22T17:20:19.257Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-09-22T17:20:54.365Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-09-22T17:21:34.254Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-09-22T17:22:41.066Z [[31merror[39m]: Error al agregar producto al carrito: product is not defined
+2024-09-22T17:37:31.193Z [[31merror[39m]: Error al agregar producto al carrito: No matching document found for id "66f051ec26089a6405af7e85" version 8 modifiedPaths "products, products.0, products.0.quantity"
